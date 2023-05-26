@@ -1,14 +1,16 @@
 {
-  {
-    "example": "This is example 1",
-    "id" : "id1"
-  },
-  {
-    "example": "This is example 2",
-    "id" : "id2"
-  },  
-  {
-    "example": "This is example 3",
-    "id" : "id3"
-  }
+  "examples:[
+    {
+      "example": "This is example 1",
+      "id" : "id1"
+    },
+    {
+      "example": "This is example 2",
+      "id" : "id2"
+    },  
+    {
+      "example": "This is example 3",
+      "id" : "id3"
+    }
+  ]
 }
